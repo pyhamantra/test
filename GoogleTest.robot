@@ -6,7 +6,7 @@ Test Teardown    Close Browser
  
 *** Variables ***
 ${FORM_URL}         https://www.google.com/
-${BROWSER}          headlesschrome
+${BROWSER}          Firefox
  
 *** Test Cases ***
 Page Should Show Header
