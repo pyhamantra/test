@@ -11,7 +11,7 @@ ${BROWSER}          headlesschrome
 *** Test Cases ***
 Page Should Show Header
     [Documentation]     When visit the page it should show the text Hello World
-    Page Should Contain     Google
+    Page Should Contain     Google s
  
 *** Keywords ***
 Open Browser And Go To Page
